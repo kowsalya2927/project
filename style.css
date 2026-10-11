@@ -1,0 +1,41 @@
+*{
+    font-family: arial;
+    margin-left: 20px;
+}
+.value{
+    background-color: honeydew;
+    width: 300px;
+    padding: 18px;
+    border-radius: 7px;
+}
+.icon{
+    background-color: mediumaquamarine;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    
+}
+.box{
+    text-decoration: underline;
+    color: mediumturquoise;
+}
+table{
+    width: 30%;
+    height: auto;
+    margin-left: 20px;
+    border-collapse: collapse;
+}
+
+tr, th, td{
+    text-align: left;
+    padding: 18px;
+}
+th{
+    font-weight: normal;
+    background-color: whitesmoke;
+    
+}
